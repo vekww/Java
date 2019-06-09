@@ -1,1 +1,1 @@
-web: java -jar target/mywebapp.war
+web: java -jar target/mywebapp.war $PORT 8000
